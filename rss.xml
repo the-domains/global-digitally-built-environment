@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Global Digitally Built Environment]]></title>
+        <description><![CDATA[Global Digitally Built Environment]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 11:31:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f002cb3c-9fe8-4a18-8bd2-813d4eff41b6.tif">]]></description>
+            <link>undefinedlaunch-of-global-digitally-built-environment/index.html</link>
+            <guid isPermaLink="false">cbe2c4bc-7157-4d04-8c73-93bbe3c51b48</guid>
+            <pubDate>Thu, 19 May 2016 11:31:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
