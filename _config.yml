@@ -1,7 +1,7 @@
 name: Global Digitally Built Environment
 favicon: null
-layout_spectrum: 0.570967068662867
-typography_spectrum: 0.43279459816403687
+layout_spectrum: 0.92414
+typography_spectrum: 0.89517
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.27124223951250315
-  lightness: 0.5804962385445833
-  saturation: 0.3113514785654843
+    - '#ffffff'
+    - '#99b52c'
+    - '#c0de86'
+    - '#e7f2d2'
+    - '#b3c862'
+  brandStrength: 0.375
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 0.6258858321234584
 purpose: []
