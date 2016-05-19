@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Global Digitally Built Environment]]></title>
         <description><![CDATA[Global Digitally Built Environment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/global-digitally-built-environment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 11:31:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 11:40:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/global-digitally-built-environment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f002cb3c-9fe8-4a18-8bd2-813d4eff41b6.tif">]]></description>
-            <link>undefinedlaunch-of-global-digitally-built-environment/index.html</link>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/global-digitally-built-environment/launch-of-global-digitally-built-environment/index.html</link>
             <guid isPermaLink="false">cbe2c4bc-7157-4d04-8c73-93bbe3c51b48</guid>
-            <pubDate>Thu, 19 May 2016 11:31:34 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 11:40:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
