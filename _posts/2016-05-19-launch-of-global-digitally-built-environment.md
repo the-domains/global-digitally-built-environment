@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-19T11:40:33.646Z'
-dateModified: '2016-05-19T11:40:23.240Z'
+description: "Launch of 'Global Digitally Built Environment', a site that will encourage integration of thought provoking people; and enable encourage stronger working relationships between designers and "
+datePublished: '2016-05-19T11:42:18.984Z'
+dateModified: '2016-05-19T11:40:42.868Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-launch-of-global-digitally-built-environment.md
